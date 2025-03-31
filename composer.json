@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "google/apiclient": "^2.18",
+        "web-auth/webauthn-lib": "^5.2"
+    }
+}

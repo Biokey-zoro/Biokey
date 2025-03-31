@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Array
+(
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawdaw
+    [mobile] => dawd
+    [email] => adwdawa
+    [address] => dadw
+    [postal] => dadwad
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawdaw
+    [mobile] => dawd
+    [email] => adwdawa
+    [address] => dadw
+    [postal] => dadwad
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawd
+    [mobile] => dawd
+    [email] => ad
+    [address] => adwdwa
+    [postal] => dawdwad
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => []
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawd
+    [mobile] => dawd
+    [email] => ad
+    [address] => adwdwa
+    [postal] => dawdwad
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => []
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawd
+    [mobile] => dawd
+    [email] => ad
+    [address] => adwdwa
+    [postal] => dawdwad
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => []
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawd
+    [mobile] => dawd
+    [email] => ad
+    [address] => adwdwa
+    [postal] => dawdwad
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => []
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawd
+    [mobile] => dawd
+    [email] => ad
+    [address] => adwdwa
+    [postal] => dawdwad
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => []
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawd
+    [mobile] => dawd
+    [email] => ad
+    [address] => adwdwa
+    [postal] => dawdwad
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => []
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawdadawd
+    [mobile] => dawdawd
+    [email] => dawdawd
+    [address] => adwada
+    [postal] => adwadwaq
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => [&quot;24/7 Access&quot;,&quot;No long-term commitment&quot;,&quot;Basic customer support&quot;]
+)
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawdwad
+    [mobile] => dawdwad
+    [email] => dwadwad
+    [address] => adwdwad
+    [postal] => 5165
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => [&quot;24/7 Access&quot;,&quot;No long-term commitment&quot;,&quot;Basic customer support&quot;]
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => gfvytufdhgd
+    [mobile] => 65+69+
+    [email] => Biokey.lockersystem@gmail.com
+    [address] => 74 Gen Tirona St
+    [postal] => 1401
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => [&quot;24/7 Access&quot;,&quot;No long-term commitment&quot;,&quot;Basic customer support&quot;]
+)
+Array
+(
+    [first_name] => Renzel
+    [last_name] => dawdadawd
+    [mobile] => 9360462576
+    [email] => vincebaena17@gmail.com
+    [address] => 74 Gen Tirona St
+    [postal] => 1401
+    [duration] => Weekly
+    [description] => Perfect for short-term users who need flexibility.
+    [price] => 10
+    [perks] => [&quot;24/7 Access&quot;,&quot;No long-term commitment&quot;,&quot;Basic customer support&quot;]
+)
+{"errors":[{"code":"parameter_below_minimum","detail":"The total amount cannot be less than 2000."}]}

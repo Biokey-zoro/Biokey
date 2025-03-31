@@ -1,0 +1,54 @@
+# # Enable Rewrite Engine
+# RewriteEngine On
+
+# # Force HTTPS
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# # Remove "index.php" from URLs
+# RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+index\.php [NC]
+# RewriteRule ^ index.php [R=301,L]
+
+# # Redirect all requests to index.php (Front Controller Pattern)
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^ index.php [QSA,L]
+
+# # Custom 404 Page
+# ErrorDocument 404 /404.php
+
+# # Protect .htaccess file
+# <Files ~ "^\.ht">
+#     Order allow,deny
+#     Deny from all
+# </Files>
+
+# # Set Default Charset to UTF-8
+# AddDefaultCharset UTF-8
+
+# # Disable Directory Browsing
+# Options -Indexes
+
+# # Cache Control (Optional, Improves Performance)
+# <IfModule mod_expires.c>
+#     ExpiresActive On
+#     ExpiresByType text/css "access plus 1 month"
+#     ExpiresByType text/javascript "access plus 1 month"
+#     ExpiresByType application/javascript "access plus 1 month"
+#     ExpiresByType image/jpeg "access plus 6 months"
+#     ExpiresByType image/png "access plus 6 months"
+#     ExpiresByType image/gif "access plus 6 months"
+# </IfModule>
+
+# # # Block Direct Access to CSS & Image Files
+# # <FilesMatch "\.(css|jpg|jpeg|png|gif|webp|svg)$">
+# #     Order Allow,Deny
+# #     Deny from all
+# #     Allow from env=WHITELISTED
+# # </FilesMatch>
+
+# # # Allow CSS & Images to Load Only from Your Website
+# # SetEnvIf Referer "https://(www\.)?yourdomain\.com" WHITELISTED
+
+
+
